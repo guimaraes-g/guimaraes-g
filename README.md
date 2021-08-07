@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @guimaraes-g
+- 👀 I’m interested in Java, DevOps, Front-End, and everything else.
+- 🌱 I’m currently learning Python, JavaScript, C#
