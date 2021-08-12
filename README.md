@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @guimaraes-g
-- 👀 I’m interested in Java, DevOps, Front-End, and everything else.
-- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, C, Cobol and C#
+- 👀 I’m interested in Operational System, DevOps, Front-End, and everything else.
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript and C
