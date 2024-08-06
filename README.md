@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @guimaraes-g
-- 👀 I’m interested in Operational System, DevOps, Front-end, and everything else.
-- 🌱 I’m currently learning Python, Java and C.
+- 👀 I’m interested in Cybersecurity, Linux and Network Infrastructure.
+- 🌱 I’m currently learning Python.
+- 🐳 FCF, FCA Fortinet Certificied.
